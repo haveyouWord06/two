@@ -11,7 +11,7 @@ uuidthree=fbcfc0ba-76ce-4fb6-a61a-ed239b70b802
 uuidfour=50da9c1f-bf7a-47fa-b933-f7ad52161d41
 uuidfive=281204fe-1c43-4d9d-8727-b2ba90fc9863
 mypath=/file-myfile
-myport=80
+myport=8080
 
 
 # Write V2Ray configuration
