@@ -5,8 +5,8 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-uuid=096feefd-c0e8-4d3d-ae00-c11a440e482d
-mypath=/fdJKFDjkdsa8d
+uuid=096feaaa-c0e8-4d3d-ae00-c11a440e4ccc
+mypath=/fdJKFfdss8d
 myport=8080
 
 
